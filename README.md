@@ -9,8 +9,10 @@
 <h2> 📱 Connect with me:</h2>
 
 [<img align="left" alt="TodorPeychinov | Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
+[<img align="left" alt="TodorPeychinov | LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 
 [instagram]: https://www.instagram.com/tottogramm/
+[linkedin]: https://www.linkedin.com/in/todor-peychinov-b5665b2b6/
 
 <br>
 <br>
