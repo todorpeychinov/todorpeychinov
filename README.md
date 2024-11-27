@@ -1,7 +1,7 @@
 <h2> 👋 Hi there, I’m Todor </h2>
 
 - 👀 I’m interested in Software Development, Web Development, Data Science, Analytics, Artificial Intelligence, Machine Learning and Open Source Contributions.
-- 🌱 I’m currently learning C, C++, Java and Python.
+- 🌱 I’m currently learning C, C++, C#, Java, Python, Perl, HTML, CSS, JavaScript, and PHP .
 - 📫 How to reach me: email: todor.peychinov@gmail.com
 - ⚡ Fun fact: I'm a night owl 🦉
 
